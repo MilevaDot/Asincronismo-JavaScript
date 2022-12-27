@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "aaron ilizarbe aaron.d.ilizarbe.s@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
